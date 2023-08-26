@@ -1,6 +1,4 @@
-import requests  # Импортируем библиотеку для работы с запросами
-import os
-
+import requests 
 from telegram import Bot
 from dotenv import load_dotenv
 
